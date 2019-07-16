@@ -1,0 +1,12 @@
+
+server:
+  port: 9090
+spring:
+  cloud:
+    config:
+      fail-fast: true
+      server:
+        native:
+          search-locations: classpath:shared    #配置访问失败的处理策略
+  profiles:
+    active: native

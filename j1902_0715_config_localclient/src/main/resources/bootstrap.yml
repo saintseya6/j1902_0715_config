@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: config-localclient
+  cloud:
+    config:
+      uri: http://localhost:9090
+      fail-fast: true
+  profiles:
+    active: dev

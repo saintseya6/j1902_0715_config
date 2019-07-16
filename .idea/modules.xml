@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/j1902_0715_config.iml" filepath="$PROJECT_DIR$/j1902_0715_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j1902_0715_config_local_order/j1902_0715_config_local_order.iml" filepath="$PROJECT_DIR$/j1902_0715_config_local_order/j1902_0715_config_local_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j1902_0715_config_localclient/j1902_0715_config_localclient.iml" filepath="$PROJECT_DIR$/j1902_0715_config_localclient/j1902_0715_config_localclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/j1902_0715_config_localserver/j1902_0715_config_localserver.iml" filepath="$PROJECT_DIR$/j1902_0715_config_localserver/j1902_0715_config_localserver.iml" />
+    </modules>
+  </component>
+</project>
